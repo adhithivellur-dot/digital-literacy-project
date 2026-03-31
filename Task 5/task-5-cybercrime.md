@@ -1,6 +1,6 @@
 ## Cybercrime Awareness Case Study & Prevention Guide ##
 
-# Part A – Case Study #
+# Part A - Case Study #
 This section presents a case study on a common cybercrime such as phishing, UPI fraud, identity theft, cyberbullying, or ransomware. The case study explains what the selected cybercrime is and how it usually occurs step-by-step. It also identifies the typical targets of the crime, such as students, professionals, or online users who frequently use digital platforms and online payment systems. The section further describes the possible consequences for victims, including financial loss, privacy violations, emotional distress, or data theft. The case study may be based on a real incident reported in the news or a realistic fictional scenario that illustrates how the cybercrime happens in everyday digital environments.
 
 # Part B – Prevention Checklist #

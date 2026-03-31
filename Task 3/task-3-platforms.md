@@ -1,4 +1,4 @@
-# Explore Coding & Collaboration Platforms #
+# Explore Coding  and  Collaboration Platforms #
 ## PART-A ##
 This task involves creating an account on an online coding platform such as HackerRank, CodeChef, or HackerEarth and completing a beginner-level programming challenge. The objective is to practice basic coding skills and become familiar with competitive programming platforms. A screenshot of the completed challenge and any badge or score obtained is saved as proof of completion.
 

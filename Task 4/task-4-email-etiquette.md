@@ -1,4 +1,5 @@
 ## Draft a Professional Email & Etiquette Guide ##
+
 # PART-A #
 This task involves writing two professional emails following proper email etiquette. The first email is a request to a professor for an extension on an assignment deadline, and the second email expresses interest in a summer internship opportunity at a company. The emails include a clear subject line, professional greeting, structured body, and proper sign-off, and are saved as a document for submission.
 

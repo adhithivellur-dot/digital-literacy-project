@@ -18,9 +18,13 @@ This module explains the concept of digital literacy and why it is important for
 
 This section introduces useful digital tools that help students improve productivity and collaboration. Examples include Google Docs and Google Drive for document creation and storage, Zoom or Google Meet for online communication, and Canva for presentations and infographics.
 
-### Module 3 – Safe Internet Practices ###
+### Module 3 – Coding & Collaboration Platforms
 
-This module focuses on cybersecurity awareness and responsible internet usage. It discusses practices such as using strong passwords, avoiding suspicious links or downloads, protecting personal information, and verifying information before sharing it online.
+This module focuses on exploring platforms that support coding practice and online collaboration. 
+In addition, it has Google Workspace tools to practice cloud collaboration. The google form includes different question types such as multiple-choice and short-answer questions.
+
+ 
+google form link:https://docs.google.com/forms/d/e/1FAIpQLSdTUacAxTuYtaN6YbZ_lsDw6ki6pC72xe2x-hnUYNOJG61FjQ/viewform?usp=publish-editor
 
 ### Module 4 – Email Etiquette ###
 
